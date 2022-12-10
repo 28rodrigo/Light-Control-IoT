@@ -13,8 +13,7 @@ The architecture of this system is in development. The version 1.0 of the archit
 * IoT device: This device acts as a gateway between the hardware devices and the Web Server. This device provides a Web API to control the different devices.
 
 IMAGEM ARQUITETURA
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-
+![Alt text](./assets/Architecture.png?raw=true "Architecture")
 
 # Use-Case 1 - Christmas Lights
 
@@ -26,3 +25,4 @@ This system was applied in my house to control all the Christmas lights. These l
 * 2 x LED Strip - Different colors
 
 ## Electrical Schematic
+![Alt text](./assets/Circuit.png?raw=true "Circuit")
